@@ -1,0 +1,6 @@
+C:\Users\david\Desktop\AMSI-Bypass-Lib\AMSI-Bypass-Lib\bin\Release\AMSI-Bypass-Lib.dll
+C:\Users\david\Desktop\AMSI-Bypass-Lib\AMSI-Bypass-Lib\bin\Release\AMSI-Bypass-Lib.pdb
+C:\Users\david\Desktop\AMSI-Bypass-Lib\AMSI-Bypass-Lib\obj\Release\AMSI-Bypass-Lib.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\AMSI-Bypass-Lib\AMSI-Bypass-Lib\obj\Release\AMSI-Bypass-Lib.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\AMSI-Bypass-Lib\AMSI-Bypass-Lib\obj\Release\AMSI-Bypass-Lib.dll
+C:\Users\david\Desktop\AMSI-Bypass-Lib\AMSI-Bypass-Lib\obj\Release\AMSI-Bypass-Lib.pdb
